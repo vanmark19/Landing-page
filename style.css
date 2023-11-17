@@ -1,0 +1,36 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+}
+.wraper{
+  width:100%;
+  display:flex;
+  justify-content: center;
+}
+#header{
+  background-color:#1F2937;
+  height:48px;
+}
+header,main{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  width:85%;
+}
+
+header div{
+  color:#F9FAF8;
+  font-size:24px;
+  font-weight:bold;
+}
+header ul{
+  list-style: none;
+  color:#E5E7EB;
+  font-size:18px;
+  display:flex;
+  gap:20px;
+}
+#main{
+  background-color:#1F2937;
+  height:450px;
+}
