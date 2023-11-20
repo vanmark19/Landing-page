@@ -145,3 +145,13 @@ h3{
   width: 120px;
   border: 3px solid #F9FAF8;
 }
+#footer-wraper{
+  background-color: #1F2937;
+  display:flex;
+  justify-content: center;
+}
+footer div{
+  color:#a7a7a7;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
