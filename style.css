@@ -58,3 +58,18 @@ button{
   object-fit: cover;
   object-position: center;
 }
+
+.wraper2{
+  width:100%;
+  display:flex;
+  justify-content:center;
+}
+
+.section2{
+  width:70%;
+}
+h2{
+  font-size:36px;
+  font-weight: 900;
+  color: #1F2937;
+}
